@@ -1,0 +1,51 @@
+﻿Title,Year,Age,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Type,Directors,Genres,Country,Language,Runtime,IMDb
+Inception,2010,13+,87%,1,0,0,0,0,Christopher Nolan,"Action,Adventure,Sci-Fi,Thriller","United States,United Kingdom","English,Japanese,French",148,8.8
+The Matrix,1999,18+,87%,1,0,0,0,0,"Lana Wachowski,Lilly Wachowski","Action,Sci-Fi",United States,English,136,8.7
+Avengers: Infinity War,2018,13+,84%,1,0,0,0,0,"Anthony Russo,Joe Russo","Action,Adventure,Sci-Fi",United States,English,149,8.5
+Back to the Future,1985,7+,96%,1,0,0,0,0,Robert Zemeckis,"Adventure,Comedy,Sci-Fi",United States,English,116,8.5
+"The Good, the Bad and the Ugly",1966,18+,97%,1,0,1,0,0,Sergio Leone,Western,"Italy,Spain,West Germany",Italian,161,8.8
+Spider-Man: Into the Spider-Verse,2018,7+,97%,1,0,0,0,0,"Bob Persichetti,Peter Ramsey,Rodney Rothman","Animation,Action,Adventure,Family,Sci-Fi",United States,"English,Spanish",117,8.4
+The Pianist,2002,18+,95%,1,0,1,0,0,Roman Polanski,"Biography,Drama,Music,War","United Kingdom,France,Poland,Germany","English,German,Russian",150,8.5
+Django Unchained,2012,18+,87%,1,0,0,0,0,Quentin Tarantino,"Drama,Western",United States,"English,German,French,Italian",165,8.4
+Raiders of the Lost Ark,1981,7+,95%,1,0,0,0,0,Steven Spielberg,"Action,Adventure",United States,"English,German,Hebrew,Spanish,Arabic,Nepali",115,8.4
+Inglourious Basterds,2009,18+,89%,1,0,0,0,0,Quentin Tarantino,"Adventure,Drama,War","Germany,United States","English,German,French,Italian",153,8.3
+Taxi Driver,1976,18+,95%,1,0,0,0,0,Martin Scorsese,"Crime,Drama",United States,"English,Spanish",114,8.3
+3 Idiots,2009,13+,100%,1,0,1,0,0,Rajkumar Hirani,"Comedy,Drama",India,"Hindi,English",170,8.4
+Pan's Labyrinth,2006,18+,95%,1,0,0,0,0,Guillermo del Toro,"Drama,Fantasy,War","Mexico,Spain",Spanish,118,8.2
+Room,2015,18+,93%,1,0,0,0,0,Lenny Abrahamson,"Drama,Thriller","Ireland,Canada,United Kingdom,United States",English,118,8.1
+Monty Python and the Holy Grail,1975,7+,97%,1,0,0,0,0,"Terry Gilliam,Terry Jones","Adventure,Comedy,Fantasy",United Kingdom,"English,French,Latin",91,8.2
+Once Upon a Time in the West,1968,13+,95%,1,0,1,0,0,Sergio Leone,Western,"Italy,United States","Italian,English,Spanish",165,8.5
+Indiana Jones and the Last Crusade,1989,13+,88%,1,0,0,0,0,Steven Spielberg,"Action,Adventure",United States,"English,German,Greek,Arabic",127,8.2
+Groundhog Day,1993,7+,96%,1,0,0,0,0,Harold Ramis,"Comedy,Fantasy,Romance",United States,"English,French,Italian",101,8
+The King's Speech,2010,18+,95%,1,0,0,0,0,Tom Hooper,"Biography,Drama,History","United Kingdom,United States,Australia",English,118,8
+Her,2013,18+,95%,1,0,0,0,0,Spike Jonze,"Drama,Romance,Sci-Fi",United States,English,126,8
+There Will Be Blood,2007,18+,91%,1,0,0,0,0,Paul Thomas Anderson,Drama,United States,"English,American Sign Language",158,8.2
+The Social Network,2010,13+,96%,1,0,0,0,0,David Fincher,"Biography,Drama",United States,"English,French",120,7.7
+Dallas Buyers Club,2013,18+,93%,1,0,0,0,0,Jean-Marc VallÃ©e,"Biography,Drama",United States,"English,Japanese",117,8
+The Perks of Being a Wallflower,2012,13+,86%,1,0,0,0,0,Stephen Chbosky,"Drama,Romance",United States,English,103,8
+Life of Brian,1979,18+,95%,1,0,0,0,0,Terry Jones,Comedy,United Kingdom,"English,Latin",94,8.1
+Ex Machina,2015,18+,92%,1,0,0,0,0,Alex Garland,"Drama,Mystery,Sci-Fi,Thriller","United Kingdom,United States",English,108,7.7
+Silver Linings Playbook,2012,18+,92%,1,0,0,0,0,David O. Russell,"Comedy,Drama,Romance",United States,English,122,7.7
+District 9,2009,18+,90%,1,0,0,0,0,Neill Blomkamp,"Action,Sci-Fi,Thriller","South Africa,United States,New Zealand,Canada","English,Nyanja,Afrikaans,Zulu,Xhosa,Southern Sotho",112,7.9
+The Irishman,2019,18+,96%,1,0,0,0,0,Martin Scorsese,"Biography,Crime,Drama",United States,"English,Italian,Latin,Spanish,German",209,7.9
+Moon,2009,18+,90%,1,0,0,0,0,Duncan Jones,"Drama,Mystery,Sci-Fi","United Kingdom,United States","English,Spanish",97,7.9
+Marriage Story,2019,18+,95%,1,0,0,0,0,Noah Baumbach,"Comedy,Drama,Romance","United Kingdom,United States","English,Spanish",137,8
+Drive,2011,18+,92%,1,0,1,0,0,Nicolas Winding Refn,"Crime,Drama",United States,"English,Spanish",100,7.8
+Train to Busan,2016,,94%,1,0,1,0,0,Sang-ho Yeon,"Action,Horror,Thriller",South Korea,"Korean,Hawaiian",118,7.5
+Incredibles 2,2018,7+,94%,1,0,0,0,0,Brad Bird,"Animation,Action,Adventure,Comedy,Family,Sci-Fi",United States,English,118,7.6
+Dangal,2016,7+,88%,1,0,0,0,0,Nitesh Tiwari,"Action,Biography,Drama,Sport",India,Hindi,161,8.4
+Klaus,2019,7+,94%,1,0,0,0,0,"Sergio Pablos,Carlos MartÃ­nez LÃ³pez","Animation,Adventure,Comedy,Family",Spain,"English,Saami",96,8.2
+Minority Report,2002,13+,90%,1,0,0,0,0,Steven Spielberg,"Action,Crime,Mystery,Sci-Fi,Thriller",United States,"English,Swedish",145,7.6
+Mystic River,2003,18+,88%,1,0,0,0,0,Clint Eastwood,"Crime,Drama,Mystery,Thriller","United States,Australia",English,138,7.9
+Like Stars on Earth,2007,7+,91%,1,0,0,0,0,"Aamir Khan,Amole Gupte","Drama,Family",India,"Hindi,English",165,8.4
+Ferris Bueller's Day Off,1986,13+,80%,1,0,0,0,0,John Hughes,Comedy,United States,"English,German",103,7.8
+Despicable Me,2010,7+,81%,1,0,0,0,0,"Pierre Coffin,Chris Renaud","Animation,Comedy,Family,Fantasy","United States,France",English,95,7.6
+Hell or High Water,2016,18+,97%,1,0,0,0,0,David Mackenzie,"Action,Crime,Drama,Thriller,Western",United States,English,102,7.6
+Sin City,2005,18+,77%,1,0,0,0,0,"Frank Miller,Robert Rodriguez,Quentin Tarantino","Crime,Thriller",United States,English,124,8
+Ip Man,2008,18+,85%,1,0,0,0,0,Wilson Yip,"Action,Adventure,Biography,Drama,History","Hong Kong,China","Cantonese,Mandarin,Japanese",106,8
+Indiana Jones and the Temple of Doom,1984,7+,85%,1,0,0,0,0,Steven Spielberg,"Action,Adventure",United States,"English,Sinhalese,Hindi",118,7.6
+The Theory of Everything,2014,13+,79%,1,0,0,0,0,James Marsh,"Biography,Drama,Romance","United Kingdom,Japan,United States","English,French",123,7.7
+The Pursuit of Happyness,2006,13+,67%,1,0,0,0,0,Gabriele Muccino,"Biography,Drama",United States,"English,Cantonese",117,8
+Senna,2010,13+,93%,1,0,0,0,0,Asif Kapadia,"Documentary,Biography,Sport","United Kingdom,France,United States","English,Portuguese,French,Japanese",106,8.5
+Scott Pilgrim vs. the World,2010,13+,81%,1,0,0,0,0,Edgar Wright,"Action,Comedy,Fantasy,Romance","United States,United Kingdom,Canada,Japan",English,112,7.5
+Magnolia,1999,18+,83%,1,0,0,0,0,Paul Thomas Anderson,Drama,United States,"English,German,French",188,8
